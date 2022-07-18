@@ -5,5 +5,7 @@
 		"emitDeclarationOnly": true,
 		"outDir": "types"
 	},
-	"include": ["dist/**/*"]
+	"include": ["dist/**/*",
+		"typescript_linter_error_fix/**/*"
+	],
 }

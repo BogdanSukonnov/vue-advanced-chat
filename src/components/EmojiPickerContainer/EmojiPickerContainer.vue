@@ -145,3 +145,9 @@ export default {
 	}
 }
 </script>
+
+<script type="module">
+import { polyfillCountryFlagEmojis } from '@/utils/country-flag-emoji-polyfill'
+// Use "Twemoji Mozilla" font-family name because emoji-picker-element places that first in the font-family list
+polyfillCountryFlagEmojis('Twemoji Mozilla')
+</script>
