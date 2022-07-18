@@ -74,7 +74,7 @@
 		"vue": "^2.6.14"
 	},
 	"dependencies": {
-		"emoji-picker-element": "https://github.com/BogdanSukonnov/emoji-picker-element/tarball/04593dca77a38051591dd1f72b6151ef9d4941a0",
+		"emoji-picker-element": "^1.8.2",
 		"linkifyjs": "^2.1.9",
 		"v-click-outside": "^3.1.2"
 	},
